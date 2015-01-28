@@ -1,9 +1,10 @@
-﻿# The Tetrix
+﻿# Rubix
 
 ![2015-01-28_10h19_43](https://cloud.githubusercontent.com/assets/10437041/5935079/358cffac-a6d7-11e4-83b2-f28356908b0b.png)
 
 *  Click here to watch a [short demonstration video](http://youtu.be/YzhefB-WiKo) 
 *  Click here to see the [commented version](http://youtu.be/13PQx51a_dI) (in french [here](http://youtu.be/FWpstIkK0DE) )
+*  You can download the worksheet's corresponding [pdf file](https://github.com/OlivierDeBouclans/2010-Rubik-Cube-Solver/raw/master/Le%20Rubix.pdf)
 
 ---
 ## Description
@@ -24,7 +25,7 @@ This project was developed in **Maple**. It’s a software for mathematical stud
 
 #### Note
 
-Sadly you won’t be able to try the program unless you have Maple installed on your computer. I couldn’t  include it in repository for obvious reasons. 
+Sadly you won’t be able to try the program unless you have Maple installed on your computer. I couldn’t  include it in the repository for obvious reasons. 
 
 ##Images
 
