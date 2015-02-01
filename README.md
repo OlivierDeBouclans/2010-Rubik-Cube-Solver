@@ -4,7 +4,7 @@
 
 *  Click here to watch a [short demonstration video](http://youtu.be/YzhefB-WiKo) 
 *  Click here to see the [commented version](http://youtu.be/13PQx51a_dI) (in french [here](http://youtu.be/FWpstIkK0DE) )
-*  You can download the worksheet's corresponding [pdf file](https://github.com/OlivierDeBouclans/2010-Rubik-Cube-Solver/raw/master/Le%20Rubix.pdf)
+*  You can download the worksheet's corresponding [pdf file](https://github.com/OlivierDeBouclans/2010-Rubik-Cube-Solver/raw/master/Le%20Rubix.pdf) 
 
 ---
 ## Description
